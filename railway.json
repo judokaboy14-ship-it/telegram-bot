@@ -1,0 +1,6 @@
+{
+  "deploy": {
+    "startCommand": "node bot.mjs",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}
