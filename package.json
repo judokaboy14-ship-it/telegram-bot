@@ -1,0 +1,7 @@
+{
+  "name": "telegram-store-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node bot.mjs" },
+  "dependencies": { "telegraf": "^4.16.3" }
+}
